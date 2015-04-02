@@ -1,2 +1,2 @@
-= Program Desighn =
-Step 1: Define the problem
+# Program Desighn
+## Step 1: Define the problem
